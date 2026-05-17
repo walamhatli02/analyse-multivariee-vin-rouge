@@ -1,0 +1,8 @@
+# Fichiers RStudio
+.RData
+.Rhistory
+.Rproj.user/
+
+# Soutenance (ne pas pusher)
+soutenance_wine_finale*.pptx
+~$*.pptx
