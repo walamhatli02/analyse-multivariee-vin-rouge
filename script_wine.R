@@ -3,7 +3,7 @@
 # Dataset : Wine Quality (UCI) — Vin Rouge
 # Module  : Méthodes statistiques et étude de données
 # Auteur  : wala mhatli omar ghannem oumaima ghannem 
-# Date    : 2025
+# Date    : 2026
 # ============================================================
 
 
